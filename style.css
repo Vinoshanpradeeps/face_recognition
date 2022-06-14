@@ -1,0 +1,17 @@
+body{
+    color: white;
+    background: black;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}
+h1 , h3 , p , label , .copy_right_footer{
+    background-color: red;
+}
+button{
+    color: white;
+    background-color: red;
+}
